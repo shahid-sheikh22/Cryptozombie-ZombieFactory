@@ -1,4 +1,4 @@
-# Cryptozombie-ZombieFactory
+## Cryptozombie-ZombieFactory
 
 # ZombieFactory Smart Contract  
 This repository contains the **ZombieFactory** smart contract, which is obtained after completing all 15 chapters of the [CryptoZombies](https://cryptozombies.io/) Solidity tutorial.  
